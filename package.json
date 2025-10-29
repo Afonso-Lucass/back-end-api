@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {},
   "keywords": [],
-  "author": "Samuel R. Caroba",
+  "author": "Lucas Afonso Martins Santos",
   "license": "ISC",
   "type": "module",
   "dependencies": {
