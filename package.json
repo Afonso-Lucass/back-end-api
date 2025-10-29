@@ -1,0 +1,16 @@
+{
+  "name": "API Boa",
+  "version": "1.0.0",
+  "description": "api top",
+  "main": "server.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Samuel R. Caroba",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  }
+}
